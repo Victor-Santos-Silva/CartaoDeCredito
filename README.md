@@ -1,4 +1,4 @@
-# CartaoDeCredito
+# Cartao De Credito
 Criei um sistema simples de Cartao de Crédito em Java.
 
 O sistema pede primeiro um valor para ser o limite do cartão de crédito;
